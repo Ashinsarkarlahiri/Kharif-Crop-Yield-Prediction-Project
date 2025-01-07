@@ -42,7 +42,6 @@ The dataset contains information on Kharif season crops, with the following attr
 - Built a robust predictive model to forecast crop yields for Kharif season crops.  
 - Identified critical factors such as rainfall, temperature, and fertilizer usage influencing crop productivity.  
 - Provided valuable insights for improving agricultural planning and decision-making.
-- 
 
 ### Conclusion:  
 This project highlights how time-series modeling can be leveraged to predict crop yields, enabling sustainable agricultural practices. By integrating climatic, agricultural, and environmental data, the project provides a comprehensive approach to optimizing crop production for Kharif season crops. 
