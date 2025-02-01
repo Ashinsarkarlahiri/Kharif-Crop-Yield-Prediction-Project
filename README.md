@@ -1,9 +1,3 @@
-### Check out my Project video presentation link below : 
-
-[![Kharif Crop Yield Prediction](https://i9.ytimg.com/vi_webp/aDljtRtF4b8/mqdefault.webp?v=677d5b15&sqp=CIy09bsG&rs=AOn4CLBwiiRDhWb-Dkiy2eUeKpYs0oKsZg)](https://www.youtube.com/embed/aDljtRtF4b8?si=OKy8lm2Xw7YGllpl) </br>
-
-
-
 
 # Predicting Crop Yield for Kharif Season Using Time-Series Modeling  
 
